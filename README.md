@@ -10,3 +10,5 @@ command=/usr/bin/otherapp
 ```
 
 [Further documentation on program config for supervisord](http://supervisord.org/configuration.html#program-x-section-settings)
+
+Based on Docker's [multi-service container documentation](https://docs.docker.com/config/containers/multi-service_container/)
